@@ -1,5 +1,8 @@
 # Brain-Tumor-Detection-Project
 
+لینک سایت مقاله: https://pmc.ncbi.nlm.nih.gov/articles/PMC10453020/
+لینک مقاله در گیت هاب:https://github.com/ashkanhajibandeh/Research-6
+لینک دیتاست مقاله: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset 
 # 🧠 تشخیص هوشمند تومور مغزی با استفاده از یادگیری عمیق (Deep Learning)
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)![Streamlit](https://img.shields.io/badge/Streamlit-App-red)![Model](https://img.shields.io/badge/Model-MobileNetV2-green)
