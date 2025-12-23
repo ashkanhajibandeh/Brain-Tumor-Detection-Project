@@ -75,14 +75,16 @@
 
 1.  **کلون کردن مخزن:**
 ```bash
-git clone https://github.com/USERNAME/REPO-NAME.git
-cd REPO-NAME
+git clone https://github.com/USERNAME/REPO-NAME.git](https://github.com/ashkanhajibandeh/Brain-Tumor-Detection-Project
+cd Brain-Tumor-Detection-Project
 
 نصب پیش‌نیازها:
 pip install -r `streamlit`, `tensorflow`, `pillow`, `numpy`
 
 اجرای برنامه: 
 streamlit run app.py
+و یا
+python -m streamlit run app.py
 
 👨‍🎓 توسعه‌دهنده
 دانشجو: اشکان حاجی بنده
