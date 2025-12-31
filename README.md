@@ -3,7 +3,7 @@
 
 لینک سایت مقاله: https://pmc.ncbi.nlm.nih.gov/articles/PMC10453020
 IF: 5.2
-سال انتشار: 
+سال انتشار: 2023 
 
 لینک مقاله در گیت هاب:https://github.com/ashkanhajibandeh/Research-6
 
